@@ -3,7 +3,7 @@ import pandas as pd
 import time
 from os import path
 
-URL = "http://my.crazyartzone.com/dmc.asp"
+URL = "https://dmc.crazyartzone.com/"
 
 
 def get_dmc_table(url):
